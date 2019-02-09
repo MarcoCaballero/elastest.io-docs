@@ -22,18 +22,55 @@ The future releases of ESS will support the detection of:
 2. Vulnerabilities enabling replay attacks
 
 <h3 class="holder-subtitle link-top" id="options">Using ESS in a TJob</h3>
+A tester can launch ESS from the "Test Support Services" tab of the ElasTest Web-GUI. The steps are as follows:
+1. Start TORM and load the Web-GUI of TORM in the Web browser
 
-ESS can be launched during the execution of a TJob. The following demo explains how this can be done.
+![][TORM GUI]
 
-Create a new TJob in ElasTest with the following configuration:
+2. Click on the "Test Support Services" side panel option
 
--   **TJob name**: **`ESS demo`**,
--   **Current SuT**: Select **`None`**,
--   **Environment Docker Image**: **`dockernash/test-tjob-ess`**
--   **Commands**: 
+![][Click TSS]
 
-        python fteaching-tjob.py http://example.org/
+3. From the drop down list, select "ESS" and click the button "Create Instance"
 
--   **Test Support Services**: Check **`EUS`** and **`ESS`**
+![][Launch ESS]
 
-Save the TJob and click the execute button. The security alerts for the SuT will be displayed under the **`ess section`**.
+4. Wait until the ESS instance is completely ready
+
+![][Load ESS]
+
+5. Click on the "View Service Details" icon
+
+![][View Details]
+
+6. Scroll down to see the Web-GUI of ESS
+
+![][ESS GUI]
+
+7. Enter the URL of the Web site that must be tested using ESS
+
+![][Enter SUT URL]
+
+8. Wait until the Spidering and Active Scan completes
+
+![][ESS Progress]
+
+9. Check the results generated
+
+![][ESS Results]
+
+10. Click on each Alert to see the details
+
+![][Result Details]
+
+
+[TORM GUI]: https://i.imgur.com/WYUlN2G.png
+[Click TSS]: https://i.imgur.com/ZB8G0Kv.png
+[Launch ESS]: https://i.imgur.com/OAQxRpA.png
+[Load ESS]: https://i.imgur.com/ejDpBn8.png
+[View Details]: https://i.imgur.com/9rSYw8F.png
+[ESS GUI]: https://i.imgur.com/WYUlN2G.png
+[Enter SUT URL]: https://i.imgur.com/5E063n4.png
+[ESS Progress]: https://i.imgur.com/m0jrUMV.png
+[ESS Results]: https://i.imgur.com/ylpAUUJ.png
+[Result Details]: https://i.imgur.com/SQli10g.png
