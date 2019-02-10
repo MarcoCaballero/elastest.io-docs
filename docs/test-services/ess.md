@@ -59,18 +59,18 @@ We have created the docker image of similar TJob and it's code is available [her
 ![][View JSON Report]
 
 [Load TORM]: /docs/test-services/images/ess/0.png
-[Create New Project ]: ../images/ess/1.0.png
-[Fill New Project Details]: ../images/ess/1.1.png
-[Click New TJob]: ../images/ess/2.png
-[Configure TJob]: ../images/ess/3.png
-[Check ESS]: ../images/ess/4.png
-[Run TJob]: ../images/ess/5.0.png
-[Scroll Down to ESS]: ../images/ess/6.0.png
-[Start ESS Scan]: ../images/ess/6.1.png
-[Completing ESS Scan]: ../images/ess/6.2.png
-[Wait to Finish]: ../images/ess/6.3.png
-[Expand Each Alert]: ../images/ess/6.4.png
-[Click to Go Back To TJob]: ../images/ess/7.png
-[Click on Exected TJob]: ../images/ess/7.1.png
-[Click on JSON Report]: ../images/ess/7.2.png
-[View JSON Report]: ../images/ess/8.png
+[Create New Project ]: /docs/test-services/images/ess/1.0.png
+[Fill New Project Details]: /docs/test-services/images/ess/1.1.png
+[Click New TJob]: /docs/test-services/images/ess/2.png
+[Configure TJob]: /docs/test-services/images/ess/3.png
+[Check ESS]: /docs/test-services/images/ess/4.png
+[Run TJob]: /docs/test-services/images/ess/5.0.png
+[Scroll Down to ESS]: /docs/test-services/images/ess/6.0.png
+[Start ESS Scan]: /docs/test-services/images/ess/6.1.png
+[Completing ESS Scan]: /docs/test-services/images/ess/6.2.png
+[Wait to Finish]: /docs/test-services/images/ess/6.3.png
+[Expand Each Alert]: /docs/test-services/images/ess/6.4.png
+[Click to Go Back To TJob]: /docs/test-services/images/ess/7.png
+[Click on Exected TJob]: /docs/test-services/images/ess/7.1.png
+[Click on JSON Report]: /docs/test-services/images/ess/7.2.png
+[View JSON Report]: /docs/test-services/images/ess/8.png
