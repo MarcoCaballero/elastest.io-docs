@@ -70,7 +70,7 @@ We have created the docker image of similar TJob and it's code is available [her
 [Completing ESS Scan]: /docs/test-services/images/ess/6.2.PNG
 [Wait to Finish]: /docs/test-services/images/ess/6.3.PNG
 [Expand Each Alert]: /docs/test-services/images/ess/6.4.PNG
-[Click to Go Back To TJob]: /docs/test-services/images/ess/7.PNG
+[Click to Go Back To TJob]: /docs/test-services/images/ess/7.0.PNG
 [Click on Exected TJob]: /docs/test-services/images/ess/7.1.PNG
 [Click on JSON Report]: /docs/test-services/images/ess/7.2.PNG
 [View JSON Report]: /docs/test-services/images/ess/8.PNG
