@@ -58,7 +58,7 @@ We have created the docker image of similar TJob and it's code is available [her
 16. Click on the button next to it to open the JSON report in a new tab (see example image shown below)
 ![][View JSON Report]
 
-[Load TORM]: ../images/ess/0.png
+[Load TORM]: /docs/test-services/images/ess/0.png
 [Create New Project ]: ../images/ess/1.0.png
 [Fill New Project Details]: ../images/ess/1.1.png
 [Click New TJob]: ../images/ess/2.png
