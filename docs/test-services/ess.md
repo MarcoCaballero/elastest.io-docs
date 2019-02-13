@@ -84,7 +84,7 @@ We have created the docker image of similar TJob and it's code is available [her
 ![][View JSON Report]
 
 [Load TORM]: /docs/test-services/images/ess/0.png
-[Create New Project ]: /docs/test-services/images/ess/1.0.png
+[Create New Project ]: /docs/test-services/images/ess/1.0.PNG
 [Fill New Project Details]: /docs/test-services/images/ess/1.1.png
 [Click New TJob]: /docs/test-services/images/ess/2.png
 [Configure TJob]: /docs/test-services/images/ess/3.png
